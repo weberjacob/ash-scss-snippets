@@ -3,6 +3,6 @@
 
 Make writing scss quicker and easier with a few common snippets. More to come.
 
-See [Release Notes](ReleaseNotes.md) for version details.
+See the [Change Log](CHANGELOG.md) for version details.
 
 **Enjoy!**
