@@ -1,0 +1,21 @@
+{
+    "name": "ash-scss-snippets",
+    "displayName": "Ash Scss Snippets",
+    "description": "Make writing scss easier and quicker.",
+    "version": "0.0.1",
+    "publisher": "ash",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "scss",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}

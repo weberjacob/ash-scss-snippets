@@ -1,0 +1,72 @@
+{
+  "Text_Transform_Uppsercase": {
+    "prefix": "upper",
+    "body": [
+      "text-transform: uppercase;"
+    ],
+    "description": "Text transform uppercase"
+  },
+  "Text_Align_Center": {
+    "prefix": "center",
+    "body": [
+      "text-align: center;"
+    ],
+    "description": "Text align center"
+  },
+  "Font_Style_Italic": {
+    "prefix": "italic",
+    "body": [
+      "font-style: italic;"
+    ],
+    "description": "Font style italic"
+  },
+  "Rem_Calc": {
+    "prefix": "rem",
+    "body": [
+      "rem-calc($1);"
+    ],
+    "description": "Rem calc"
+  },
+  "Color": {
+    "prefix": "color",
+    "body": [
+      "color(theme-$1);"
+    ],
+    "description": "Color"
+  },
+  "Breakpoint_Small": {
+    "prefix": "small",
+    "body": [
+      "@include breakpoint(small) {$1}"
+    ],
+    "description": "Breakpoint Small"
+  },
+  "Breakpoint_Medium": {
+    "prefix": "medium",
+    "body": [
+      "@include breakpoint(medium) {$1}"
+    ],
+    "description": "Breakpoint Medium"
+  },
+  "Breakpoint_Large": {
+    "prefix": "large",
+    "body": [
+      "@include breakpoint(large) {$1}"
+    ],
+    "description": "Breakpoint Large"
+  },
+  "Last_of_Type": {
+    "prefix": "last",
+    "body": [
+      "last-of-type {$1}"
+    ],
+    "description": "Last of type"
+  },
+  "Nth_of_Type": {
+    "prefix": "nth",
+    "body": [
+      ":nth-of-type($2)$0"
+    ],
+    "description": "Nth of type"
+  }
+}
