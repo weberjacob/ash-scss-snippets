@@ -1,7 +1,7 @@
 {
     "name": "ash-scss-snippets",
     "displayName": "Ash Scss Snippets",
-    "description": "Make writing scss easier and quicker.",
+    "description": "Make writing scss easier and quicker with snippets.",
     "version": "0.0.2",
     "publisher": "ash",
     "icon": "images/logo.png",
@@ -13,7 +13,9 @@
         "vscode": "^1.21.0"
     },
     "categories": [
-        "Snippets"
+        "Snippets",
+        "scss",
+        "sass"
     ],
     "contributes": {
         "snippets": [
