@@ -6,12 +6,26 @@
     ],
     "description": "Text transform uppercase"
   },
+  "Text_Align_Left": {
+    "prefix": "left",
+    "body": [
+      "text-align: left;"
+    ],
+    "description": "Text align left"
+  },
   "Text_Align_Center": {
     "prefix": "center",
     "body": [
       "text-align: center;"
     ],
     "description": "Text align center"
+  },
+  "Text_Decoration_Underline": {
+    "prefix": "underline",
+    "body": [
+      "text-decoration: underline;"
+    ],
+    "description": "Text decoration underline"
   },
   "Font_Style_Italic": {
     "prefix": "italic",
