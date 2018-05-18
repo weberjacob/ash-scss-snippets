@@ -55,12 +55,26 @@
     ],
     "description": "Breakpoint Small"
   },
+  "Breakpoint_Small_Only": {
+    "prefix": "small only",
+    "body": [
+      "@include breakpoint(small only) {$1}"
+    ],
+    "description": "Breakpoint Small Only"
+  },
   "Breakpoint_Medium": {
     "prefix": "medium",
     "body": [
       "@include breakpoint(medium) {$1}"
     ],
     "description": "Breakpoint Medium"
+  },
+  "Breakpoint_Medium_Down": {
+    "prefix": "medium down",
+    "body": [
+      "@include breakpoint(medium down) {$1}"
+    ],
+    "description": "Breakpoint Medium Down"
   },
   "Breakpoint_Large": {
     "prefix": "large",
