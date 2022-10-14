@@ -20,6 +20,13 @@
     ],
     "description": "Text align center"
   },
+  "Text_Align_Right": {
+    "prefix": "right",
+    "body": [
+      "text-align: right;"
+    ],
+    "description": "Text align right"
+  },
   "Text_Decoration_Underline": {
     "prefix": "underline",
     "body": [
@@ -82,6 +89,20 @@
       "@include breakpoint(large) {$1}"
     ],
     "description": "Breakpoint Large"
+  },
+  "Breakpoint_XLarge": {
+    "prefix": "xlarge",
+    "body": [
+      "@include breakpoint(xlarge) {$1}"
+    ],
+    "description": "Breakpoint XLarge"
+  },
+  "First_of_Type": {
+    "prefix": "first",
+    "body": [
+      "first-of-type {$1}"
+    ],
+    "description": "First of type"
   },
   "Last_of_Type": {
     "prefix": "last",

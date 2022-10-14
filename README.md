@@ -1,5 +1,5 @@
 # Ash Scss Snippets for Visual Studio Code
-[![Version](https://vsmarketplacebadge.apphb.com/version/ash.ash-scss-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=ash.ash-scss-snippets) 
+<img src="https://badgen.net/badge/version/0.0.4/cyan?icon=github" alt="Version: 0.0.4"/>
 
 Make writing scss quicker and easier with a few common snippets. More to come.
 
